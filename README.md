@@ -1,3 +1,4 @@
-# ip-grabber-2.0
+# a garbage html thats kinda like you are an idiot
 
-ip grabber site thats kinda like you are an idiot virus
+
+a site thats kinda like you are an idiot virus
