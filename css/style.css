@@ -1,6 +1,4 @@
-/* 
-    * Written by MalwarePad https://malwarepad.com
-*/
+
 
 body {
     text-align: center;
@@ -21,15 +19,4 @@ body {
         background-color: white;
         -webkit-filter: invert(1);
         filter: invert(1);
-    }
-    100% {
-        background-color: red;
-        -webkit-filter: invert(1);
-        filter: invert(1);
-    }
-    150% {
-        background-color: blue;
-        -webkit-filter: invert(1);
-        filter: invert(1);
-    }
 }
